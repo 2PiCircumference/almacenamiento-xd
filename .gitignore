@@ -1,0 +1,30 @@
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales de editores
+*~
+*.swp
+*.swo
+*.bak
+.vscode/
+.idea/
+
+# Archivos temporales de Office
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+
+# Archivos de configuración local
+.env
+.env.local
+
+# Logs
+*.log
+
+# Carpetas de compilación o temporales (si se añaden en el futuro)
+node_modules/
+dist/
+build/
+.cache/
