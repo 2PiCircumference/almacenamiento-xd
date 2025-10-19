@@ -1,0 +1,11 @@
+Este es un ejemplo de archivo de texto plano.
+
+Puedes guardar aquí cualquier documento de texto que quieras utilizar con herramientas de IA.
+
+Por ejemplo:
+- Notas personales
+- Borradores de artículos
+- Listas y recordatorios
+- Transcripciones
+
+El formato de texto plano es muy útil porque es compatible con prácticamente todas las herramientas de IA.
